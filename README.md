@@ -1,5 +1,4 @@
-# blood-of-the-abyss-Frameworks-
-# Blood of the Abyss
+# blood-of-the-abyss-showcase
 
 > Toda memória possui um preço.  
 > Toda verdade exige um sacrifício.
